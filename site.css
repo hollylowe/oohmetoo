@@ -1,0 +1,27 @@
+html {
+	background-color: #fcf7f0;
+}
+
+.logo {
+	width: 30%;
+	min-width: 300px;
+	display: block;
+    margin: auto;
+    padding-top: 15%;
+}
+
+.social {
+	width: 25%;
+	min-width: 300px;
+	display: block;
+    margin: auto;
+    padding-top: 15px;
+}
+
+.social-icon {
+	width: 60%;
+}
+
+td {
+	text-align: center;
+}
