@@ -20,6 +20,11 @@ html {
 
 .social-icon {
 	width: 60%;
+	transition: transform .5s;
+}
+
+.social-icon:hover {
+	transform: translateY(-10px);
 }
 
 td {
